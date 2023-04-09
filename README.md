@@ -7,3 +7,9 @@ Advantages when using a Python script to import a company's financial statement 
 Python library that I used: 
 BeautifulSoup
 Pandas
+
+Source: stockanalysis.com
+
+Disclaimer: 
+- There is some dynamic sources that can not apply web scraping technique (which I already tried) such as yahoo finance.
+- Each financial web page has different HTML tree that should be considered when coding.
