@@ -11,5 +11,5 @@ Pandas
 Source: stockanalysis.com
 
 Disclaimer: 
-- There is some dynamic sources that can not apply web scraping technique (which I already tried) such as yahoo finance.
+- There is some dynamic sources that can not apply web scraping technique (which I already tried) such as yahoo finance. In that case, using API instead.
 - Each financial web page has different HTML tree that should be considered when coding.
